@@ -1,0 +1,6 @@
+com\renteasy\entity\Owner.class
+com\renteasy\controller\OwnerController.class
+com\renteasy\repository\OwnerRepository.class
+com\renteasy\RenteasyApplication.class
+com\renteasy\service\OwnerService.class
+com\renteasy\service\OwnerServiceImpl.class
